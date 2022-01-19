@@ -1,0 +1,15 @@
+{
+  "branch": "release",
+  "description": "A 'Modern' Python project to explore poetry and provide a utility to create encrypted ISO files",
+  "title": "ISOCrypt",
+  "links": [
+    {
+      "title": "View Source",
+      "href": "https://github.com/ArchiMoebius/isocrypt"
+    },
+    {
+      "title": "Download",
+      "href": "https://pypi.org/project/isocrypt/"
+    }
+  ]
+}
